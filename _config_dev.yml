@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Natürliche Schönheitstherapie in Hannover
+title: Gesundheit und Schönheit bei Physio24 
 email: info@bla.com
 description: > # this means to ignore newlines until "baseurl:"
   Alle Informationen rund um die natürliche Schönheits-, Heil- und Ernährungstherapie, die wir in Hannover anbieten.
