@@ -18,7 +18,7 @@ email: info@bla.com
 description: > # this means to ignore newlines until "baseurl:"
   Alle Informationen rund um die natürliche Schönheits-, Heil- und Ernährungstherapie, die wir in Hannover anbieten.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sghalebikesabi.github.io/heilpraktiker/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
