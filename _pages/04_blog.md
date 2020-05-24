@@ -1,10 +1,8 @@
 ---
 
 layout: page
-title: Contact
-permalink: /contact/
+title: Blog
+permalink: /blog/
 ---
 
-Contact content goes here.
-
-My e-mail is [email@something.com](mailto:email@something.com).
+Hier finden Sie vergangene Blog Posts.
